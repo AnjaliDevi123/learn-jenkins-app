@@ -103,7 +103,7 @@ pipeline {
             }
 
             environment {
-                CI_ENVIRONMENT_URL = 'https://curious-pixie-300acf.netlify.app/'
+                CI_ENVIRONMENT_URL = 'https://curious-pixie-300acf.netlify.app'
             }
 
             steps {
