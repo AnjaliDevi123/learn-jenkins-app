@@ -103,7 +103,7 @@ pipeline {
             }
 
             environment {
-                CI_ENVIRONMENT_URL = 'https://api.netlify.com/api/v1/badges/d1c06cc9-3dd0-48bd-ac0a-c3d7fc97f46d/deploy-status)&&(https://app.netlify.com/projects/curious-pixie-300acf/deploys)'
+                CI_ENVIRONMENT_URL = 'https://curious-pixie-300acf.netlify.app/'
             }
 
             steps {
